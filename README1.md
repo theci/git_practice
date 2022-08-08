@@ -80,7 +80,7 @@
 ## Github
 - 깃허브란 분산 버전 관리 툴인 깃 저장소 호스팅을 지원하는 웹 서비스이다
 - 원격 저장소 생성 -> 로컬 저장소와 원격 저장소 연결 -> 원격 저장소에 업로드
-- 등록 : git remote add orgin 사이트 주소
+- 등록 : git remote add origin 사이트 주소
 - 조회 : git remote -v
 - 삭제 : git remote rm origin
 - 업로드 : git push origin master
